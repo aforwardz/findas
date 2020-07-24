@@ -1,1 +1,2 @@
-pandas
+pandas==1.0.5
+plotly==4.9.0
